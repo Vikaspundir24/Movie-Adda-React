@@ -8,13 +8,6 @@ import MovieCard  from "./MovieCard";
 const API_URL = 'http://www.omdbapi.com?apikey=802eff1d'
 
 
-const movie1 = {
-    "Title": "Fast & Furious 6",
-    "Year": "2013",
-    "imdbID": "tt1905041",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_SX300.jpg"
-}
 
 
 const App = () => {
